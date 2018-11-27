@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeeplAPI", "DeepL-API\DeeplAPI.csproj", "{359427F9-992F-49A0-A9C1-EB15CE3B716F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{359427F9-992F-49A0-A9C1-EB15CE3B716F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{359427F9-992F-49A0-A9C1-EB15CE3B716F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{359427F9-992F-49A0-A9C1-EB15CE3B716F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{359427F9-992F-49A0-A9C1-EB15CE3B716F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F42B3DA3-12B0-4079-81E3-E9AB41B38996}
+	EndGlobalSection
+EndGlobal
